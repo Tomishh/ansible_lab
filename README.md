@@ -32,7 +32,7 @@ Ce rôle déploie une app web statique (comme un build React) dans un conteneur 
 - Déploie une app React (ou autre statique) via une image personnalisée
 - Utilise un docker-compose.yml généré par template
 - Configuration via variables.
-
+---
 ### ⚙️ Projet 3 : Playbook complet – 2 apps + Apache en load balancer
 Ce projet final orchestre le tout : configuration des serveurs, déploiement de 2 apps web avec Docker, et mise en place d’un Apache HTTPD agissant comme reverse proxy/load balancer.
 #### 🎯 Objectif :
